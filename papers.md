@@ -26,16 +26,17 @@ Or you can download a full zip of the PDFs (with groups and priorities in the fi
 
 **Herbsleb, CMU**
 
-_One more reading forthcoming_
+1. Trainer, E. H., Chaihirunkarn, C., Kalyanasundaram, A., & Herbsleb, J. D. (2015). [From Personal Tool to Community Resource: What’s the Extra Work and Who Will Do It?](papers/Herbsleb1-Trainer et al. - 2015 - Extra Work.pdf) In Proceedings of the 18th ACM Conference on Computer Supported Cooperative Work &#38; Social Computing (pp. 417–430). New York, NY, USA: ACM. http://doi.org/10.1145/2675133.2675172
 
-1. Trainer, E.H., Chaihirunkarn, C., Kalyanasundaram, A., Herbsleb, J.D.  (2014). [Community Code Engagements: Summer of Code & Hackathons for Community Building in Scientific Software](papers/Herbsleb1-Trainer et al. - 2014 - Community Code Engagements Summer of Code). ACM Conference on Supporting Groupwork (GROUP), Sanibel Island, FL.  
+1. Trainer, E. H., Kalyanasundaram, A., Chaihirunkarn, C., & Herbsleb, J. D. (2016). [How to Hackathon: Socio-technical Tradeoffs in Brief, Intensive Collocation](papers/Herbsleb2-Trainer et al. - 2016 - How to Hackathon Socio-technical Tradeoffs.pdf). In Proceedings of the 19th ACM Conference on Computer-Supported Cooperative Work & Social Computing (pp. 1118–1130). New York, NY, USA: ACM. http://doi.org/10.1145/2818048.2819946
+
 
 1. Howison, J., & Herbsleb, J. D. (2013). [Incentives and integration in scientific software production](papers/Herbsleb3-CSCW-2013-BLASTStudy.pdf), ACM Conference on Computer-Supported Cooperative Work (pp. 459-470). San Antonio, TX.
 
-<!--- 
-1. Howison, J. and Herbsleb, J. D. (2011). [Scientific software production: incentives and collaboration](papers/Herbsleb2-CSCW2011-IncentivesAndCollaboration.pdf). In Proceedings, Computer-Supported Collaborative Work Hangzhou, China, pp. 513-522. (pdf)
--->
+<!---
 
+1. Trainer, E.H., Chaihirunkarn, C., Kalyanasundaram, A., Herbsleb, J.D.  (2014). [Community Code Engagements: Summer of Code & Hackathons for Community Building in Scientific Software](papers/Herbsleb2-Trainer et al. - 2014 - Community Code Engagements Summer of Code.pdf). ACM Conference on Supporting Groupwork (GROUP), Sanibel Island, FL.  
+-->
 
 **Howison, UT Austin**
 
