@@ -20,7 +20,7 @@ Or you can download a full zip of the PDFs (with groups and priorities in the fi
 
 1. Tanweer, Fiore-Gartland and Aragon (2016)[Impediment to insight to innovation: understanding data assemblages through the breakdown–repair process](papers/DataScienceStudies1-Impediment to insight to innovation understanding data assemblages through the breakdown repair process.pdf)  Information, Communication, and Society
 
-2. [Trace Ethnography: Following coordination through documentary practices](DataScienceStudies2-trace-ethnography-hicss-geiger-ribes.pdf) (Geiger and Ribes, 2011) In Proceedings of HICSS.
+2. [Trace Ethnography: Following coordination through documentary practices](papers/DataScienceStudies2-trace-ethnography-hicss-geiger-ribes.pdf) (Geiger and Ribes, 2011) In Proceedings of HICSS.
 
 3. Blog: [Community level data science and its spheres of influence: beyond novelty squared](papers/DataScienceStudies3-BlogBeyond novelty squared.pdf) (Fiore-Gartland, Tanweer) [Weblink](http://escience.washington.edu/community-level-data-science-and-its-spheres-of-influence-beyond-novelty-squared/)
 
