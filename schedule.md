@@ -8,7 +8,12 @@ Schedule
 
 ## Tuesday April 19
 
-7pm. Dinner at [Clyde Commons](http://www.clydecommon.com/), meet in Foyer at The Nines (restaurant is a few blocks walk). Call or Text James (315 395 4056) if issues.
+7pm. Dinner at TBD, meet in Foyer at The Nines (restaurant is a few blocks walk). Call or Text James (315 395 4056) if issues.
+
+
+<!--
+http://higginsportland.com/
+-->
 
 -------------------------
 
@@ -41,3 +46,5 @@ pre-8am         Breakfast at the hotel. Note that all should eat breakfast befor
 4:30	        Finish and return to hotel
 
 6:30 pm	        Meet at The Nines to walk to dinner (location TBD)
+
+<!-- [Clyde Commons](http://www.clydecommon.com/) -->
