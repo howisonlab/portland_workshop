@@ -2,6 +2,9 @@
 layout: default
 title: Home
 ---
+
+Collaborative Notes Document: [PiratePad](http://piratepad.net/portland-workshop-sloan)
+
 ## Overview
 
 This workshop will be held on April 20th in Portland, OR immediately following the FORCE 2016 scholarly communications conference, supported by the Sloan Foundation. 
