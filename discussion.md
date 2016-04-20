@@ -2,6 +2,9 @@
 layout: default
 title: Discussion
 ---
+
+The [google doc for our notes](https://docs.google.com/document/d/1kQO8IPv024uUlguha-ygyolVuSLTc8-Yw5qoT2PIGeA/edit).
+
 The short presentations and discussions sessions will focus on these questions (collaboratively developed via [our mailing list](https://utlists.utexas.edu/sympa/info/portland-workshop).
 
 1. In what respects do data and software serve common functions in science?
