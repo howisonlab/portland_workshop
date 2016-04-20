@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-Collaborative Notes Document: [PiratePad](http://piratepad.net/portland-workshop-sloan)
+Collaborative Notes Document: [The new google docs link](https://docs.google.com/document/d/1kQO8IPv024uUlguha-ygyolVuSLTc8-Yw5qoT2PIGeA/edit)
 
 ## Overview
 
